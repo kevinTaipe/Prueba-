@@ -15,4 +15,7 @@
 computacionales. Los lenguajes de programación, necesariamente, se encuadran en uno o varios paradigmas a la vez 
 a partir del tipo de órdenes que permiten implementar, algo que tiene una relación directa con su sintaxis.
 # Realize un cuadro comparativo de los paradigmas 
+*
+# Conclusion 
+* Para concluir un paradigma de programación es un estilo de programación empleado por los programadores al crear módulos o programas, para resolver uno o varios problemas computacionales. 
 
