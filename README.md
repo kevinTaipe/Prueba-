@@ -1,11 +1,14 @@
 # Datos Personales
-* Universidad de las Fuerzas Armadas ESPE
-* Integrantes:
-1. Kevin Taipe
-2. Andres Valverde
-* Curso:
-Segundo "A" Electromecanica
-* Materia: Programacion Orientada A Objetos
+# Universidad de las Fuerzas Armadas ESPE
+# Integrantes:
+* Kevin Taipe
+* Andres Valverde
+# Curso:
+* Segundo "A" Electromecanica
+# Materia: 
+* Programacion Orientada A Objetos
+# Docente
+* Ing.Nancy Jacho 
 # Leccion 1
 # ¿Que Es Un Paradigma?
 * Un paradigma de programación es un estilo de desarrollo de programas. Es decir, un modelo para resolver problemas
