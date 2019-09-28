@@ -23,5 +23,5 @@ a partir del tipo de órdenes que permiten implementar, algo que tiene una relac
 # Realize un cuadro comparativo de los paradigmas 
 *
 # Conclusion 
-* Para concluir un paradigma de programación es un estilo de programación empleado por los programadores al crear módulos o programas, para resolver uno o varios problemas computacionales. 
+* En conclusion un paradigma de programación es un estilo de programación empleado por los programadores al crear módulos o programas, para resolver uno o varios problemas computacionales utilizando las diferentes funciones. 
 
